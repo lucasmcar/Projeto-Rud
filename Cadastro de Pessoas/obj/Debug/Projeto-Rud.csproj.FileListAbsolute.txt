@@ -1,0 +1,18 @@
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\bin\Debug\Cadastro de Pessoas.exe.config
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\bin\Debug\Cadastro de Pessoas.exe
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\bin\Debug\Cadastro de Pessoas.pdb
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\bin\Debug\Google.Protobuf.dll
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\bin\Debug\MySql.Data.dll
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\bin\Debug\Google.Protobuf.xml
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\bin\Debug\MySql.Data.xml
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Projeto-Rud.csprojResolveAssemblyReference.cache
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro_de_Pessoas.Form1.resources
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro_de_Pessoas.Habilitacao.resources
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro_de_Pessoas.Multas.resources
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro_de_Pessoas.Properties.Resources.resources
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro_de_Pessoas.TelaCadastro.resources
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Projeto-Rud.csproj.GenerateResource.cache
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Projeto-Rud.csproj.CoreCompileInputs.cache
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Projeto-Rud.csproj.CopyComplete
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro de Pessoas.exe
+C:\Users\anne_\source\repos\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro de Pessoas.pdb
